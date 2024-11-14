@@ -1,6 +1,6 @@
 ### Car Price Prediction Using Linear Models
 
-In this project, I developed a linear regression model to predict car prices using a dataset that included various features such as car specifications and geographical information. The aim was to explore how different factors contribute to a car’s price, identify the most important features, and suggest future improvements to the --
+In this project, I developed a linear regression model to predict car prices using a dataset that included various features such as car specifications and geographical information. The aim was to explore how different factors contribute to a car’s price, identify the most important features, and suggest future improvements to the modeling approach.
 
 ### Car Price Prediction Using Linear Models
 
